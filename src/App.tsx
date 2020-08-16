@@ -6,7 +6,7 @@ import AppNavigation from './containers/AppNavigation';
 import PhaseInverter from './containers/PhaseInverter';
 
 export default function App() {
-  const repositoryURL: string = 'https://github.com/moutend/AudioWebApp/PhaseInvert/';
+  const repositoryURL: string = 'https://github.com/moutend/PhaseInversion/';
 
   const [isInitialized, setIsInitialized] = useState(false) as [boolean, (a: boolean) => void];
   const [language, setLanguage] = useState('') as [string, (a: string) => void];
