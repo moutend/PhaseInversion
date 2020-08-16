@@ -1,7 +1,7 @@
 Web Audio App - Phase Inversion
 ===============================
 
-[moutend.github.io/PhaseInversion](https://moutend.github.io/PhaseInversion)
+[moutend.github.io/PhaseInversion](https://moutend.github.io/PhaseInversion/)
 
 This web app let you invert the phase of the stereo audio signal.
 
