@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PhaseInversion/precache-manifest.2f4a89e5d6f8dd98d62756906700b2a7.js"
+  "/PhaseInversion/precache-manifest.bf4dc31b41d8214996c8af43f2b5aa03.js"
 );
 
 self.addEventListener('message', (event) => {

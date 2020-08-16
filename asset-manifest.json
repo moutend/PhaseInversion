@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/PhaseInversion/static/js/main.113d7678.chunk.js",
-    "main.js.map": "/PhaseInversion/static/js/main.113d7678.chunk.js.map",
+    "main.js": "/PhaseInversion/static/js/main.767511d2.chunk.js",
+    "main.js.map": "/PhaseInversion/static/js/main.767511d2.chunk.js.map",
     "runtime-main.js": "/PhaseInversion/static/js/runtime-main.63323d78.js",
     "runtime-main.js.map": "/PhaseInversion/static/js/runtime-main.63323d78.js.map",
     "static/js/2.80ba5d12.chunk.js": "/PhaseInversion/static/js/2.80ba5d12.chunk.js",
     "static/js/2.80ba5d12.chunk.js.map": "/PhaseInversion/static/js/2.80ba5d12.chunk.js.map",
     "index.html": "/PhaseInversion/index.html",
-    "precache-manifest.2f4a89e5d6f8dd98d62756906700b2a7.js": "/PhaseInversion/precache-manifest.2f4a89e5d6f8dd98d62756906700b2a7.js",
+    "precache-manifest.bf4dc31b41d8214996c8af43f2b5aa03.js": "/PhaseInversion/precache-manifest.bf4dc31b41d8214996c8af43f2b5aa03.js",
     "service-worker.js": "/PhaseInversion/service-worker.js",
     "static/js/2.80ba5d12.chunk.js.LICENSE.txt": "/PhaseInversion/static/js/2.80ba5d12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.63323d78.js",
     "static/js/2.80ba5d12.chunk.js",
-    "static/js/main.113d7678.chunk.js"
+    "static/js/main.767511d2.chunk.js"
   ]
 }
